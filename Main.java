@@ -1,5 +1,4 @@
- 
-package LumacangActivity2;
+ package LumacangActivity2;
 
  
 public class Main {
