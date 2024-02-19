@@ -1,5 +1,7 @@
+package LumacangActivity1;
+
 import java.util.Scanner;
-public class Activity1 {
+public class Main {
     public static void main (String [] args) {
 
     java.util.Scanner data = new Scanner (System.in);
